@@ -2,6 +2,8 @@
 
 This is a assignment from Practical Machine Learning on Coursera, thank you for review my work!!
 
+There will be no output plot by .md file, check out the complete version here
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 web version : https://rpubs.com/GillianCheng/1045656
 
 
